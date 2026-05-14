@@ -77,3 +77,10 @@ temp/
 
 # ── Duplicate / scratch files ─────────────────────────────────
 requirements_temp.txt
+context_rag_advanced_part2.ipynb
+context_rag_advanced_part3.ipynb
+
+docs/*
+context_rag_advanced_part2.ipynb
+opencode.json
+prompt_caching.md
